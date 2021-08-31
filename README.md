@@ -2,7 +2,6 @@ An API for interacting with [Swagger][swagger] documents.
 
 ## Project Badges
 
-* Build status: [![Build Status](https://travis-ci.org/project-name.svg)](https://travis-ci.org/build-url)
 * Dependencies: [![Dependencies](https://david-dm.org/apigee-127/djlakjflkdsfj.svg)](https://david-dm.org/bljaflkahdsf)
 * Developer dependencies: [![Dev Dependencies](https://david-dm.org/blahblah.svg)](https://david-dm.org/blahdhafdaf#info=devDependencies&view=table)
 
